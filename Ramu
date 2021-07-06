@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML image</h2>
+<img src="img_chania.jpg"
+alt="images in chania">
+
+</body>
+</html>
